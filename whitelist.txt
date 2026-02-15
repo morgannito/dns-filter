@@ -2272,6 +2272,7 @@ akamai.net
 akamaiedge-staging.net
 akamaiedge.net
 akamaihd.net
+akamaitechnologies.com
 akamaized.net
 akanexterna.com
 akaquill.net
@@ -6822,6 +6823,7 @@ bibliotekazawiercie.pl
 bibliotheque-imperiale.com
 bibliotheque-libre-archive.blog
 bibliotheque-paysflechois.fr
+bibliotheque.tv
 bibliothequemunicipaledelafleche.fr
 bibliothequerose.com
 bibliothequesonore.ch
@@ -10083,6 +10085,7 @@ cdn-weward.app
 cdn-wmk.com
 cdn-zeptoapps.com
 cdn-zlib.sk
+cdn.jsdelivr.net
 cdn.li
 cdn.net.co
 cdn1cdn1.com
@@ -10114,6 +10117,7 @@ cdnimpuls.com
 cdnios.vip
 cdnjet.io
 cdnjojo.vip
+cdnjs.cloudflare.com
 cdnjs.com
 cdnlin.vip
 cdnlogo.com
@@ -12343,6 +12347,7 @@ collegepadrepio.fr
 collegeparcfrot.fr
 collegephysiquechimie.fr
 collegepiegut.net
+colleges.eu
 collegesainthilaire.fr
 collegiate-va.org
 collider.com
@@ -17458,6 +17463,7 @@ edslap.com
 edtechbooks.org
 edu-fiche.com
 edu-fiche.fr
+edu.google.com
 edu.nl
 edu4java.com
 edubelin.fr
@@ -17503,6 +17509,7 @@ educlever.io
 educmat.fr
 educol.net
 educonline.net
+educonnect.education.gouv.fr
 educonnect.gouv.fr
 educreatif.com
 eductive.fr
@@ -17531,6 +17538,7 @@ edusign.com
 edusign.fr
 edust.net
 eduthek.fr
+edutheque.fr
 eduxim.com
 edvardmunch.org
 edvision-group.com
@@ -18422,6 +18430,7 @@ ent27.fr
 entab.info
 entafix.com
 entail-assets.com
+entbox.fr
 entcreuse.fr
 enteduc.fr
 entelechargement.com
@@ -35577,6 +35586,7 @@ ma-bimbo.com
 ma-bonne-impression.fr
 ma-calculatrice.fr
 ma-citation.com
+ma-classe.fr
 ma-cuillere.fr
 ma-cuisine-debutante.com
 ma-garderie.fr
@@ -36885,6 +36895,7 @@ mathelem.com
 mathemathieu.fr
 mathematiquesfaciles.com
 mathematiquesreims.fr
+mathenpoche.net
 mathepower.com
 mathequalslove.net
 matheranalytics.com
@@ -37473,6 +37484,7 @@ meeples-services.fr
 meer.com
 meet-in.es
 meet-me-there.com
+meet.google.com
 meetandmatch.fr
 meetboston.com
 meetbot.biz
@@ -42216,6 +42228,9 @@ ocouleursdelongle.fr
 ocptfilid.com
 ocsddna.net
 ocsp-certum.com
+ocsp.digicert.com
+ocsp.int-x3.letsencrypt.org
+ocsp.sectigo.com
 oct8ne.com
 octagor.com
 octane.co
@@ -43489,6 +43504,7 @@ outlet-piscines.fr
 outlift.com
 outlinediabase.com
 outlook.com
+outlook.office365.com
 outlookindia.com
 outlookmobile.com
 outlooktravelmag.com
@@ -46328,6 +46344,7 @@ pontsaintemaxence.fr
 ponziracing.fr
 poocloud.in
 poofnneosbomve.com
+pool.ntp.org
 poool-subscribe.fr
 poool.fr
 poool.host
@@ -50310,6 +50327,7 @@ sabre-heros.com
 sabrelaser-france.fr
 sabrinacarpenter.com
 sabukhitamjiyong.art
+sacado.xyz
 sacem.fr
 sachsen.schule
 saclab.com
@@ -51066,6 +51084,7 @@ scrapmalin.com
 scrapsfromtheloft.com
 scratch-wiki.info
 scratch.mit
+scratch.mit.edu
 scratchjr.org
 screamingbrainstudios.com
 screeb.app
@@ -54057,6 +54076,7 @@ staceystachetti.com
 stacher.io
 stackadapt.com
 stackademic.com
+stackblitz.com
 stackexchange.com
 stackla.com
 stackoverflow.com
@@ -56033,6 +56053,7 @@ teamnote.net
 teampulse.net
 teamrh.com
 teams.com
+teams.microsoft.com
 teamspeak.com
 teamswear.com
 teamswear.fr
@@ -63338,6 +63359,7 @@ wojsko-polskie.pl
 wokami.fr
 wolapps.life
 wolford.com
+wolframalpha.com
 wolfy.com
 wolfy.fr
 wolfy.net
