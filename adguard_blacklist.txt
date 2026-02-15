@@ -1,9 +1,9 @@
-! Title: DNS Filter - Blacklist (Children)
-! Description: DNS filter list for children safety
-! Last modified: 2026-02-15 22:28
-! Entries: 39951
-! Homepage: https://github.com/morgannito/dns-filter
-!
+\! Title: DNS Filter - Blacklist (Children)
+\! Description: DNS filter list for children safety
+\! Last modified: 2026-02-15 22:32
+\! Entries: 39924
+\! Homepage: https://github.com/morgannito/dns-filter
+\!
 ||0000100.com^
 ||004etave3jhrq.shop^
 ||007arcadegames.com^
@@ -10052,10 +10052,6 @@
 ||fabtcg.com^
 ||fabulargame.com^
 ||facebook-cheats.com^
-||facebook.com^
-||facebook.es^
-||facebook.net^
-||facebookmail.com^
 ||facedesigns.co.uk^
 ||faceit.com^
 ||facepalmgames.com^
@@ -10279,11 +10275,9 @@
 ||favcomics.com^
 ||favpng.com^
 ||faxnamegl.top^
-||fb.com^
 ||fb777.pro^
 ||fbalpha.com^
 ||fbap.1emu.net^
-||fbcdn.net^
 ||fbdrlqmsqnbng.com^
 ||fbgames.co.uk^
 ||fbgcdn.com^
@@ -10291,7 +10285,6 @@
 ||fbkgames.nl^
 ||fbmpjxkxe.com^
 ||fbox.to^
-||fbsbx.com^
 ||fbshq.org^
 ||fc.system3.com^
 ||fcatarasque.livejournal.com^
@@ -20947,7 +20940,6 @@
 ||linh5.com^
 ||link.dissector.net^
 ||linkbel.be^
-||linkedin.com^
 ||linkevolutionpro.com^
 ||linkgamebaidoithuong.asia^
 ||linkkf.net^
@@ -26921,7 +26913,6 @@
 ||pinpedia.com^
 ||pinpinteam.com^
 ||pinside.com^
-||pinterest.com^
 ||pinup-games-uz.com^
 ||pinup-play.in^
 ||pinupkz-games.com^
@@ -29918,18 +29909,9 @@
 ||redchopgames.com^
 ||redclawgames.com^
 ||redcliffe-challenge.co.uk^
-||redd.it^
 ||reddeckwinning.wordpress.com^
 ||reddeergames.com^
 ||reddevstudio.com^
-||reddit.com^
-||reddithelp.com^
-||redditinc.com^
-||redditmail.com^
-||redditmedia.com^
-||redditspace.com^
-||redditstatic.com^
-||redditstatus.com^
 ||reddlock.com^
 ||reddnsfw.com^
 ||reddotgames.pl^
@@ -34139,7 +34121,6 @@
 ||t-minuszero.com^
 ||t-molding.com^
 ||t-shirtfactory.shop^
-||t.co^
 ||t2m9merk6wfhz5twuhptbbpm3n83mxqbu.rest^
 ||t2tmud.org^
 ||t45ol.com^
@@ -36359,7 +36340,6 @@
 ||twilighttangents.com^
 ||twilightus.net^
 ||twilightwars.com^
-||twimg.com^
 ||twin-sails.com^
 ||twinbottles.com^
 ||twindrums.com^
@@ -36383,8 +36363,6 @@
 ||twitch.tv^
 ||twitchcdn.net^
 ||twitchythumbs.com^
-||twitter.com^
-||twitterperlen.de^
 ||twizl.com^
 ||twnbtmdkstjlu.space^
 ||twoandahalfstudios.com^
@@ -39522,11 +39500,7 @@
 ||yout-u.be^
 ||yout-ube.com^
 ||youthchess.net^
-||youtu.be^
-||youtube-nocookie.com^
 ||youtube-video-download.com^
-||youtube.be^
-||youtube.co^
 ||youtubeunblocked.live^
 ||youwanlegame.com^
 ||youwilldieheretonight.com^
@@ -39549,7 +39523,6 @@
 ||ysnet-inc.jp^
 ||yss-aya.com^
 ||yssingeaux.free.fr^
-||yt.be^
 ||yt1s.lol^
 ||ytcroxyproxy.com^
 ||ytdhblk.top^

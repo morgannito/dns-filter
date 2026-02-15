@@ -19427,6 +19427,10 @@ face-clinic-geneve.com
 face.co
 facebbook.com
 facebim.com
+facebook.com
+facebook.es
+facebook.net
+facebookmail.com
 facecheck.id
 faceless.video
 facemojikeyboard.com
@@ -19750,7 +19754,9 @@ fazae.com
 fazier.com
 fb-rocks.com
 fb-t-msedge.net
+fb.com
 fbcd.co
+fbcdn.net
 fbdata-edt.com
 fbetlixgee.eu
 fbi.gov
@@ -19760,6 +19766,7 @@ fbld.eu
 fbot.me
 fbref.com
 fbrq.io
+fbsbx.com
 fbwebprogram.com
 fc-moto.de
 fc2.page
@@ -33687,6 +33694,7 @@ linkby.com
 linkconnector.com
 linke.ai
 linkedin-or-interpol.com
+linkedin.com
 linkeo.ovh
 linkfire.com
 linkgameh5.com
@@ -44534,6 +44542,7 @@ pinterest.ca
 pinterest.cl
 pinterest.co.kr
 pinterest.co.uk
+pinterest.com
 pinterest.com.au
 pinterest.com.mx
 pinterest.de
@@ -47823,6 +47832,15 @@ redcdn.net
 redcdn.pl
 redcircle.com
 redcross.org
+redd.it
+reddit.com
+reddithelp.com
+redditinc.com
+redditmail.com
+redditmedia.com
+redditspace.com
+redditstatic.com
+redditstatus.com
 redeal.se
 redefiningstrength.com
 redfast.com
@@ -54538,6 +54556,7 @@ t-mobile.com
 t-msedge.net
 t-nb.com
 t-x.io
+t.co
 t.me
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
@@ -57963,6 +57982,7 @@ twilatruecollaborations.com
 twilight-zone.nl
 twilio.com
 twimads.com
+twimg.com
 twimmo.net
 twimmopro.com
 twinfinite.net
@@ -57986,6 +58006,8 @@ twitchat.fr
 twitchrivals.com
 twitchtracker.com
 twitcount.com
+twitter.com
+twitterperlen.de
 twkvqaufojm.com
 twnmm.com
 two-playergames.com
@@ -63155,7 +63177,11 @@ yout.com
 youtest.me
 youthforhumanrights.org
 youtooz.com
+youtu.be
+youtube-nocookie.com
 youtube-ui.l.google.com
+youtube.be
+youtube.co
 youtube.com
 youtube.de
 youtube.fr
@@ -63212,6 +63238,7 @@ ysscores.com
 ystyle.fr
 yt-industries.com
 yt-to-text.com
+yt.be
 yt1d.com.co
 yt1s.bar
 yt1s.com
