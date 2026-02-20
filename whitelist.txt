@@ -109,8 +109,6 @@ geoportail.gouv.fr
 georisques.gouv.fr
 gers.gouv.fr
 gironde.gouv.fr
-google.com
-google.fr
 googleapis.com
 googleusercontent.com
 googlevideo.com
