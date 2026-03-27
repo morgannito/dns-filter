@@ -1,7 +1,7 @@
 \! Title: DNS Filter - Allowlist (Children)
 \! Description: DNS filter list for children safety - Critical domains only
-\! Last modified: 2026-02-20 09:51
-\! Entries: 238
+\! Last modified: 2026-03-27 14:40
+\! Entries: 239
 \! Homepage: https://github.com/morgannito/dns-filter
 \!
 @@||1jeune1solution.gouv.fr^
@@ -37,6 +37,7 @@
 @@||auth0.com^
 @@||aviation-civile.gouv.fr^
 @@||beta.gouv.fr^
+@@||biblio-filter.fr^
 @@||biodiversite.gouv.fr^
 @@||bouches-du-rhone.gouv.fr^
 @@||brexit.gouv.fr^
