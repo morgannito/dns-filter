@@ -1,0 +1,28 @@
+! Title: DNS Filter - Dating
+! Description: Domains related to Dating - unsafe for children
+! Last modified: 2026-03-31 18:50
+! Entries:       22
+! Homepage: https://github.com/morgannito/dns-filter
+!
+||ablinks.mail.hinge.co^
+||badoolyvlse.fr^
+||bumble.alvaria.io^
+||cdn.badoo.com^
+||cdn.bumble.com^
+||fonts.hinge.co^
+||fr.tinderpressroom.com^
+||fruitz.io^
+||gtrvjvjhappnakv.fr^
+||images-ssl.gotinder.com^
+||inboxcrm-ssl.gotinder.com^
+||kluovrldbadoo.fr^
+||marketing-images.gotinder.com^
+||naobadoodnnp.net^
+||neortimev6.meetic.com.akadns.net^
+||nohappnng.com^
+||pussygrindr.com^
+||static-assets.gotinder.com^
+||uelfruitzb.com^
+||www.happn.com^
+||www.lovoo.com^
+||www.meetic.fr^

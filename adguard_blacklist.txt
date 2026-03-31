@@ -1,7 +1,7 @@
 \! Title: DNS Filter - Blacklist (Children)
 \! Description: DNS filter list for children safety
-\! Last modified: 2026-03-31 18:39
-\! Entries: 43240
+\! Last modified: 2026-03-31 18:50
+\! Entries: 43701
 \! Homepage: https://github.com/morgannito/dns-filter
 \!
 ||0000100.com^
@@ -125,6 +125,8 @@
 ||12h30.net^
 ||12play4fun.com^
 ||1337.games^
+||1337x.proxyninja.org^
+||1337x.unblockninja.st^
 ||13amgames.com^
 ||1483online.com^
 ||14juegos.com^
@@ -216,6 +218,7 @@
 ||1xbet-casino-play.ru^
 ||1xbet-games-kz.ru^
 ||1xbet-play-casino.ru^
+||1xbet.com^
 ||1xbetcasinogames.ru^
 ||1xbetcasinoplay.ru^
 ||1xbitx.com^
@@ -475,6 +478,8 @@
 ||4baam.com^
 ||4bitgames.com^
 ||4c23a.playfabapi.com^
+||4chan.endchan.net^
+||4chan.org^
 ||4cheaters.com^
 ||4colorrebellion.com^
 ||4cywq-eqnre.ads.tremorhub.com^
@@ -676,6 +681,7 @@
 ||8baller.co.uk^
 ||8bit.microheaven.com^
 ||8bitskull.com^
+||8chan.moe^
 ||8circuitstudios.com^
 ||8d-games.nl^
 ||8degrees.tripod.com^
@@ -684,6 +690,7 @@
 ||8i.com^
 ||8ing.co.jp^
 ||8ing.net^
+||8kun.top^
 ||8linesupply.com^
 ||8mgame.id^
 ||8muses.com^
@@ -776,6 +783,7 @@
 ||aamirm.hacking-cult.org^
 ||aaotracker.com^
 ||aaquanthubhq.top^
+||aardhbwinw.fr^
 ||aardman.com^
 ||aardwolf.com^
 ||aarpinnovationlabs.org^
@@ -838,6 +846,7 @@
 ||ablegamers.com^
 ||ablegamers.org^
 ||ablemagic.no^
+||ablinks.mail.hinge.co^
 ||abntv.live^
 ||abonfireofsouls.com^
 ||about-fun.com^
@@ -872,6 +881,7 @@
 ||abuclxwayyvum.space^
 ||abulmo.club.fr^
 ||aburatan.sourceforge.net^
+||abwuhdssl.test^
 ||abxxx.com^
 ||abxxxke.com^
 ||abylight.com^
@@ -966,6 +976,7 @@
 ||acquire.co.jp^
 ||acropolis.freeservers.com^
 ||acrostica.com^
+||acroxy.org^
 ||acrylicosvallejo.com^
 ||acsdsexczxdqkhs.net^
 ||acsexwmr.net^
@@ -1072,6 +1083,7 @@
 ||admarti.top^
 ||admeen.com^
 ||admgamer.top^
+||admin.vikings-casinos.fr^
 ||adminmod.org^
 ||admiralgameslots.net^
 ||admiralthegame.ru^
@@ -1386,6 +1398,7 @@
 ||ajedrez-online.eu^
 ||ajedrezmail.org^
 ||ajedrezonline.com^
+||ajhdsslqe.fr^
 ||ajmivgvmaclye.online^
 ||ajoutez.fr^
 ||ajtrainsim.free.fr^
@@ -1730,6 +1743,7 @@
 ||amoa.memberclicks.net^
 ||amongusplay.online^
 ||amoursucre.com^
+||amp.vdcasino-urlsitesi.com^
 ||ampedgaming.com^
 ||ampgames.com^
 ||amphetamines.sourceforge.net^
@@ -2060,14 +2074,17 @@
 ||apeuwsexpldbx.fr^
 ||apexwebgaming.com^
 ||api-cdn.rule34.xxx^
+||api-web.omegle.fun^
 ||api.hdhq.xxx^
 ||api.peakgames.net^
+||api.pokerstars.com^
 ||api.porngameshub.com^
 ||api.rule34.xxx^
 ||api.saasexch.com^
 ||api.sexymeet.tv^
 ||api.sexytalk.tv^
 ||api.tophd.xxx^
+||api.voirfilm.cam^
 ||api.wheel-of-games.com^
 ||api.yontoo.com^
 ||api2.playhaven.com^
@@ -2784,6 +2801,7 @@
 ||australiango.asn.au^
 ||australianracing.com^
 ||australiasfinestguild.8m.com^
+||auth.pokerpatio.com^
 ||auth.xhamster.com^
 ||autho.me^
 ||authordigital.com^
@@ -2956,6 +2974,7 @@
 ||azurgames.com^
 ||azzer.com^
 ||b-alive.de^
+||b.french-stream.how^
 ||b.rynhe.de.tioch.free.fr^
 ||b00m.dk^
 ||b227.eu^
@@ -3025,6 +3044,7 @@
 ||badmonkee.de^
 ||badmoon.freehosting.net^
 ||badoo.com^
+||badoolyvlse.fr^
 ||badrhinogames.com^
 ||badrobot.com^
 ||badseed.co^
@@ -3537,9 +3557,11 @@
 ||betasia.com^
 ||betbrain.com^
 ||betcalc.com^
+||betclic-group.breezy.hr^
 ||betclic.ci^
 ||betclic.com^
 ||betclic.fr^
+||betclicgroup.com^
 ||betdevil.com^
 ||betfair.com^
 ||betfilter.com^
@@ -3560,6 +3582,7 @@
 ||betnod.com^
 ||betomorrow.com^
 ||betonbasket.com^
+||betpandacasino.io^
 ||betpggamesoftgold.com^
 ||betphoenix.ag^
 ||betplatinum.ag^
@@ -3588,6 +3611,7 @@
 ||betus.com.pa^
 ||betweenle.com^
 ||betweenwaters.com^
+||betwinner2.com^
 ||betx12.net^
 ||beurettesexe.fr^
 ||bevgames.com^
@@ -3660,6 +3684,7 @@
 ||bibliotecaelfica.org^
 ||biblissima.fr^
 ||bibo-bergeron.com^
+||bibwinadziplngo.net^
 ||bicastudios.com^
 ||biclopsgames.com^
 ||bicortexlanguages.com^
@@ -3827,6 +3852,9 @@
 ||bitbull.com^
 ||bitbyterz.com^
 ||bitcakestudio.com^
+||bitcoincasinos.edp-biologie.fr^
+||bitcoincasinos.labonnecomposition.fr^
+||bitcoincasinosfrance.labonnecomposition.fr^
 ||bitcoinplay.net^
 ||bitcutter.com^
 ||bitefight-bot.com^
@@ -3890,6 +3918,7 @@
 ||bjtournaments.com^
 ||bjwkxxxohovf.org^
 ||bjzcsextnakne.net^
+||bjzwbwinryu.fr^
 ||bk4q6l48ptb56194e9.rest^
 ||bkcka.profitux.cz^
 ||bkfuuothzxgnm.site^
@@ -4066,6 +4095,7 @@
 ||blodzsgzxxxixlt.com^
 ||blog-game.com^
 ||blog-jeux.com^
+||blog.casinobarcelona.com^
 ||blog.linceworks.com^
 ||blog.pornofrance.fr^
 ||blogazeroth.com^
@@ -4327,6 +4357,7 @@
 ||bontegames.com^
 ||bonus-stage-loc.com^
 ||bonus.com^
+||bonuscasinoenligne.elocance.com^
 ||bonuslevelentertainment.com^
 ||bonusparadise.com^
 ||bonusstage.co^
@@ -4465,6 +4496,7 @@
 ||bpojutddbiktb.website^
 ||bpsgameserver.com^
 ||bpster.freeservers.com^
+||bqdtbwiny.fr^
 ||bqocyvxzhcpvh.online^
 ||bqpxxxtwil.org^
 ||bqvqfwscjsvkel.com^
@@ -4742,6 +4774,7 @@
 ||bsuqqtarpfqhs.website^
 ||bsx-games.com^
 ||btc-dortmund.de^
+||btccasino.labonnecomposition.fr^
 ||btcgames.xyz^
 ||btf.de^
 ||bthozhjkalooxxx.fr^
@@ -4840,6 +4873,7 @@
 ||bullypulpitgames.com^
 ||bulwarkstudios.com^
 ||bumarcade.com^
+||bumble.alvaria.io^
 ||bumble.com^
 ||bump.io^
 ||bumpyball.io^
@@ -4926,7 +4960,15 @@
 ||bwin.com.ar^
 ||bwin.com^
 ||bwin.fr^
+||bwinabhtuf.net^
+||bwinaqaoogi.org^
+||bwinbqbcoh.net^
+||bwindf.fr^
+||bwine.test^
 ||bwinpartypartners.com^
+||bwinpf.test^
+||bwinxqbwjbg.org^
+||bwinzarhuzx.com^
 ||bwiqsgxxx.com^
 ||bwnsex.net^
 ||bwnxxxonfhyvw.net^
@@ -5309,19 +5351,28 @@
 ||casimm.com^
 ||casino-1win-play.ru^
 ||casino-annecy.com^
+||casino-arcachon.partouche.com^
 ||casino-automatengames.com^
 ||casino-caribbean.net^
+||casino-en-ligne-fiable.apicap.fr^
+||casino-en-ligne-meilleur.uk.net^
+||casino-en-ligne.za.com^
+||casino-fiable.pottoka.fr^
 ||casino-frejus.fr^
 ||casino-games-play.com^
+||casino-immediat.ereel.org^
 ||casino-madagascar.com^
 ||casino-manager.com^
+||casino-online-fr1.corkandbarrelpub.com^
 ||casino-play-xbet.ru^
 ||casino-software-india.com^
 ||casino-to-go.co.uk^
 ||casino-vulkan-games.one^
 ||casino-xbet-game.ru^
 ||casino-xbet-play.ru^
+||casino.evianresort.com^
 ||casino.org^
+||casino2026.apicap.fr^
 ||casinoaffiliateprogram.com^
 ||casinoaffiliateprograms.com^
 ||casinoarizona.com^
@@ -5329,6 +5380,7 @@
 ||casinobarcelona.com^
 ||casinobestgamez.com^
 ||casinobonusgames.ca^
+||casinobonussansdepot.train-artouste.com^
 ||casinobplaysantafe.top^
 ||casinocardgamereviews.com^
 ||casinocayenne.com^
@@ -5337,6 +5389,20 @@
 ||casinocitypress.com^
 ||casinoconsult.com^
 ||casinodelsol.com^
+||casinodoc.org^
+||casinoenligne.noeconservation.org^
+||casinoenlignefiable.asgg.fr^
+||casinoenlignefrance.gb.net^
+||casinoenlignefrance.on-divorce.fr^
+||casinoenlignefrance.tousmecenes.fr^
+||casinoenligneimmediat.ereel.org^
+||casinoenlignelegal.co.com^
+||casinoenlignemeilleur.menbur.fr^
+||casinofiable.pontdarc-ardeche.fr^
+||casinofiablefrancais.editions-galilee.fr^
+||casinofrancais.maitremo.fr^
+||casinofrancaisenligne.forexagone.com^
+||casinofrance.materalia.fr^
 ||casinogamedeals.net^
 ||casinogameden.com^
 ||casinogamepalace.com^
@@ -5356,14 +5422,17 @@
 ||casinoibiza.com^
 ||casinoknights.com^
 ||casinolifegame.shop^
+||casinolive.datchamandala.net^
 ||casinolockbetgame.shop^
 ||casinomarbella.com^
 ||casinomoosejaw.com^
 ||casinonb.ca^
 ||casinonightfundraisers.com^
 ||casinonightgames.com^
+||casinonokyc.agencelespirates.com^
 ||casinonovascotia.com^
 ||casinoonline.de^
+||casinoonlinegamerhere.com^
 ||casinopartiesphoenix.com^
 ||casinopartynights.com^
 ||casinopartysacramento.com^
@@ -5375,15 +5444,35 @@
 ||casinorama.com^
 ||casinorankingsystem.com^
 ||casinoregina.com^
+||casinoretraitimmediat.collectifciem.org^
 ||casinorodos.gr^
 ||casinoroyale.free.fr^
+||casinoruna.fr^
+||casinos-en-ligne-belgique.eu.com^
+||casinos-en-ligne.sa.com^
 ||casinos-sfc.com^
+||casinosargentreel.alancienne.co^
+||casinosavecbonus.solutionslinux.fr^
 ||casinosavenue.com^
 ||casinosbarriere.com^
 ||casinosecretplay.jp^
+||casinosenlignefiable.nowuproject.eu^
+||casinosenlignefiablefrance.us.com^
+||casinosenlignefiables.uk.net^
+||casinosenlignefrancais.alancienne.co^
+||casinosenlignefrancais.uk.com^
+||casinosenlignefrancais.uk.net^
+||casinosenlignefrance.uk.net^
+||casinosenlignemeilleur.nowuproject.eu^
+||casinosenlignemeilleur.uk.net^
+||casinosfrance.boutique-solidaire.com^
 ||casinoslotgames.ca^
+||casinosocket-74-shard-02.whow.net^
 ||casinosofmayfair.com^
 ||casinosonlineusaplay.com^
+||casinossanskyc.niuandyou.com^
+||casinossanskyc.periance-conseil.fr^
+||casinossansverification.litzic.fr^
 ||casinotojobetgames.net^
 ||casinovendors.com^
 ||casinovenezia.it^
@@ -5491,6 +5580,7 @@
 ||cbsgames.com^
 ||cbssports.cloud^
 ||cbtr.8m.com^
+||cbwinvdv.fr^
 ||cc2.co.jp^
 ||cc2revival.npage.de^
 ||ccardgenerator.com^
@@ -5536,8 +5626,14 @@
 ||cdn.arkoselabs.com^
 ||cdn.asianporngif.com^
 ||cdn.aznude.com^
+||cdn.badoo.com^
 ||cdn.beegpornhub.com^
 ||cdn.bigporn.com^
+||cdn.blockaway.net^
+||cdn.bumble.com^
+||cdn.croxy.org^
+||cdn.croxyproxy.com^
+||cdn.croxyproxy.net^
 ||cdn.emzi.com^
 ||cdn.eroticbeauties.net^
 ||cdn.freemilf.org^
@@ -5551,8 +5647,11 @@
 ||cdn.iporntv.net^
 ||cdn.live^
 ||cdn.myhentaicomics.com^
+||cdn.pokerpatio.com^
+||cdn.pokerstarsnetwork.com^
 ||cdn.porn.biz^
 ||cdn.porngames.tv^
+||cdn.proxyium.com^
 ||cdn.sexable.tv^
 ||cdn.sexgify.com^
 ||cdn.sextfun.com^
@@ -5713,6 +5812,7 @@
 ||chaingames.io^
 ||chainplay.gg^
 ||chainsawesomegames.com^
+||chainsawman.manganyaa.com^
 ||chainsawmaniac.com^
 ||challengerworld.com^
 ||chamas-tacos.com^
@@ -6172,6 +6272,7 @@
 ||civquest.sourceforge.net^
 ||ciwrynctmsexgwz.net^
 ||cixvfrclub.org.uk^
+||cizvbwinsgq.com^
 ||cjgames.it^
 ||cjk71vanywherect4uezbean.shop^
 ||cjmu.tripod.com^
@@ -6184,6 +6285,7 @@
 ||ckowjbkpmxxxwlj.net^
 ||ckparthkmfktp.com^
 ||ckplayer.com^
+||ckproxy34.odiso.net^
 ||ckrosvsppslck.site^
 ||ckyesex.fr^
 ||clairebridge.com^
@@ -6508,6 +6610,7 @@
 ||coflix.app^
 ||coflix.art^
 ||coflix.bet^
+||coflix.blog^
 ||coflix.bs^
 ||coflix.bz^
 ||coflix.cc^
@@ -6519,19 +6622,28 @@
 ||coflix.foo^
 ||coflix.fr^
 ||coflix.fyi^
+||coflix.io^
 ||coflix.moe^
 ||coflix.mov^
 ||coflix.net^
 ||coflix.nexus^
 ||coflix.ninja^
 ||coflix.nu^
+||coflix.observer^
 ||coflix.plus^
 ||coflix.pro^
 ||coflix.qpon^
+||coflix.rodeo^
+||coflix.run^
 ||coflix.si^
+||coflix.space^
+||coflix.tel^
 ||coflix.top^
 ||coflix.tv^
+||coflix.upn.one^
+||coflix.wales^
 ||coflix.wiki^
+||coflixwiki.mystrikingly.com^
 ||cofoosball.com^
 ||cofqvtyrtujpl.website^
 ||cogcongaming.com^
@@ -7278,12 +7390,16 @@
 ||crowscrowscrows.com^
 ||croxproxy.online^
 ||croxy-proxy.com^
+||croxy.org^
 ||croxyproxy.app^
 ||croxyproxy.best^
 ||croxyproxy.cloud^
 ||croxyproxy.com^
 ||croxyproxy.fr^
 ||croxyproxy.net^
+||croxyproxy.org.cutestat.com^
+||croxyproxy.org^
+||croxyproxy.rocks.sitescorechecker.com^
 ||croxyproxy.rocks^
 ||croxyproxy.website^
 ||croxyproxycom.com^
@@ -7314,10 +7430,16 @@
 ||cryon.game.free.fr^
 ||crypticsea.com^
 ||crypticstudios.com^
+||crypto-casino.comptoirdecampagne.fr^
 ||crypto-games.net^
 ||crypto.com^
 ||crypto.games^
 ||cryptobrowser.site^
+||cryptocasinofrancais.silversantestudy.fr^
+||cryptocasinos.domicile.fr^
+||cryptocasinos.edp-biologie.fr^
+||cryptocasinos.evensi.fr^
+||cryptocasinosfrancais.comptoirdecampagne.fr^
 ||cryptograph.com^
 ||cryptotheism.tumblr.com^
 ||cryptydgames.com^
@@ -7825,6 +7947,7 @@
 ||dasreichclan.tripod.com^
 ||dasut.com^
 ||data-display.com^
+||data.monkey.cool^
 ||data.pornovore.fr^
 ||dataform.uk.com^
 ||datalink.sk^
@@ -8112,6 +8235,7 @@
 ||demiplane.com^
 ||demiurgestudios.com^
 ||demo-client.site^
+||democasino.betsoftgaming.com^
 ||demodiscs.tripod.com^
 ||demon.co.uk^
 ||demonically.com^
@@ -8260,6 +8384,7 @@
 ||dhdhsexcaaa.fr^
 ||dhefunorama.fun^
 ||dhhardtosntrk.site^
+||dhhkbhnbxhdssu.test^
 ||dhmhsdojiypsexu.com^
 ||dhnntcndtrrffw.com^
 ||dhruva.com^
@@ -8590,6 +8715,7 @@
 ||dksplace.com^
 ||dktcdn.net^
 ||dkvdiqccgxlydc.com^
+||dl.winamax.fr^
 ||dl1.emulcenter.net^
 ||dl2.net^
 ||dlalastudios.com^
@@ -8615,6 +8741,7 @@
 ||dmnd.games^
 ||dmnlks-a.online^
 ||dmnlks-c.online^
+||dmoahdssjibnpog.fr^
 ||dmsguild.com^
 ||dmsteve-jp.tripod.com^
 ||dmweb.free.fr^
@@ -9360,6 +9487,7 @@
 ||dwl.17buddies.net^
 ||dwl.sourceforge.net^
 ||dwmud.com^
+||dwnyaa.test^
 ||dworks-ent.co.jp^
 ||dwpc.jp^
 ||dwxjpsffcbzgc.website^
@@ -9447,6 +9575,7 @@
 ||eagregames.com^
 ||ealarad.live^
 ||ealiensoft.com^
+||eamhdssmhic.com^
 ||eamobile.com^
 ||eamonag.org^
 ||eannxoqpxxx.com^
@@ -9519,6 +9648,7 @@
 ||ebrnobve.webgarden.cz^
 ||ebtx.com^
 ||ebu.co.uk^
+||ebwinvtrcjnrqoi.com^
 ||ecarteweb.com^
 ||ecatsbridge.com^
 ||ecbarre2.net^
@@ -9528,6 +9658,7 @@
 ||ece4co.vis.ne.jp^
 ||ecfs.8m.com^
 ||echatgpt.org^
+||echdssoidi.org^
 ||echecs-online.fr^
 ||echecs.com^
 ||echecs21.com^
@@ -9621,6 +9752,7 @@
 ||effectgames.com^
 ||eflbcdn.com^
 ||efmods.com^
+||efnnbwinsfldsh.com^
 ||efree-games.com^
 ||efreegame.com^
 ||efreegames.net^
@@ -9823,6 +9955,7 @@
 ||emblematicgroup.com^
 ||embos.net^
 ||emcneill.com^
+||emeraldchat.com^
 ||emeraldcitygames.ca^
 ||emeraldqueen.com^
 ||emeraldrose.s5.com^
@@ -9858,19 +9991,37 @@
 ||empire-sport.xyz^
 ||empire-steami.site^
 ||empire-stream.cloud^
+||empire-stream.dev^
 ||empire-stream.fr^
+||empire-stream.live^
+||empire-stream.org^
+||empire-streami.art^
 ||empire-streami.com^
+||empire-streami.ink^
+||empire-streami.live^
 ||empire-streami.online^
 ||empire-streami.site^
 ||empire-streami.space^
 ||empire-streami.store^
 ||empire-streami.work^
+||empire-streami.world^
 ||empire-streami.xyz^
+||empire-streaming-lien.org^
 ||empire-streaming-officiel.org^
 ||empire-streaming-sport.com^
 ||empire-streaming-sports.com^
+||empire-streaming.lat^
 ||empire-streaming.my^
 ||empire-streaming.sbs^
+||empire-streaming.stream^
+||empire-streamings-sport.com^
+||empire-streamings.biz^
+||empire-streamings.com^
+||empire-streamings.online^
+||empire-streamings.shop^
+||empire-streamings.site^
+||empire-streamings.space^
+||empire-streamings.xyz^
 ||empireforge.com^
 ||empiregames.co.uk^
 ||empiregames.net^
@@ -9923,6 +10074,7 @@
 ||emutotal.com^
 ||emuwizards.com^
 ||emuxperts.net^
+||emyehdssimvpqr.net^
 ||en-minecraft.org^
 ||en.bandainamcoent.eu^
 ||en.comicspornoxxx.com^
@@ -9945,6 +10097,7 @@
 ||encore.com^
 ||encyclopedie-des-armes.com^
 ||endbossgames.com^
+||endchan.net^
 ||endeavorone.com^
 ||enderman.info^
 ||endflame.com^
@@ -10153,6 +10306,7 @@
 ||eressea.de^
 ||eretsym.fr^
 ||erggaxbuuevsw.site^
+||erhdss.net^
 ||erhytkyul.shop^
 ||eric.triki.pagesperso-orange.fr^
 ||ericzimmerman.com^
@@ -10280,6 +10434,7 @@
 ||etfqkluorsjby.website^
 ||etgames.com^
 ||ethancartergame.com^
+||ethcypxuhfbwin.com^
 ||ethereal-realms.org^
 ||etherealgames.com^
 ||etiennechome.site^
@@ -10391,6 +10546,7 @@
 ||eventail.be^
 ||eventhorizonstudios.games^
 ||eventhubs.com^
+||eventlog.jackpot.de^
 ||eventmasters.co.uk^
 ||eventticketbooking.site^
 ||eventyrgames.com^
@@ -10482,6 +10638,7 @@
 ||ewe.org.uk^
 ||ewoperations.com^
 ||ewqrqjjnjiyvk.space^
+||ewrhtgunhdssiw.com^
 ||ewsrdpcpsexiz.org^
 ||ewzcqbfbsexwn.com^
 ||ewzgfdqzhyaoj.website^
@@ -10571,6 +10728,7 @@
 ||exsexm.org^
 ||exsistance.com^
 ||ext.stripchat.com^
+||external-euw1-kproxy-1-918085366.eu-west-1.elb.amazonaws.com^
 ||extinction.fr^
 ||extrajuegos.com^
 ||extrapowergame.com^
@@ -10633,6 +10791,7 @@
 ||ezsexrtqnkod.org^
 ||eztrktkut.shop^
 ||ezuzfxxxmx.com^
+||ezwbwinr.com^
 ||ezyzzgbinwcqq.website^
 ||f-cimag-in.com^
 ||f-jeux-buzz.com^
@@ -10943,6 +11102,7 @@
 ||feerik.com^
 ||feerikado.com^
 ||feitiangames.com^
+||fekivvjbwinu.fr^
 ||felinearts.net^
 ||felixandpaul.com^
 ||fell2earth.com^
@@ -11026,6 +11186,7 @@
 ||ffxi.somepage.com^
 ||ffxionline.com^
 ||ffxivinfo.com^
+||ffxjsbwinnlnzw.org^
 ||fg-games.co.jp^
 ||fgames.com^
 ||fghetto.com^
@@ -11034,6 +11195,7 @@
 ||fh6w1mtv93vtkmmg7otcxh.rest^
 ||fhagsexfcjuztg.com^
 ||fhcdsxgicx.com^
+||fhdssskiclm.fr^
 ||fhdune.tripod.com^
 ||fhgwbfxpsexgm.net^
 ||fho2.com^
@@ -11264,6 +11426,7 @@
 ||fitbrains.com^
 ||fites.net^
 ||fitgamerchick.com^
+||fitgirl-repacks.proxyninja.org^
 ||fitgirl-repacks.site^
 ||fith.com^
 ||fitnotgames.com^
@@ -11654,6 +11817,7 @@
 ||fondleaegipan.shop^
 ||fonigames.com^
 ||font.download^
+||fonts.hinge.co^
 ||foodgame.surf^
 ||foofastudios.com^
 ||foogamers.com^
@@ -11841,14 +12005,18 @@
 ||fqwgbfspbmtqj.com^
 ||fqxxxyasrgxyy.fr^
 ||fqzouodvgiqub.website^
+||fr-casino.leseconoclastes.fr^
+||fr-casinos.leseconoclastes.fr^
 ||fr-jeux.fr^
 ||fr-minecraft.net^
 ||fr.18games.org^
 ||fr.3hentai.net^
+||fr.888casino.com^
 ||fr.bestlovesexdoll.com^
 ||fr.boardgamearena.com^
 ||fr.bongacams.com^
 ||fr.cam4.com^
+||fr.coflix.nu^
 ||fr.eporner.com^
 ||fr.filmpornocompleto.com^
 ||fr.findeen.com^
@@ -11856,6 +12024,7 @@
 ||fr.flightgear.tuxfamily.org^
 ||fr.fragoria.com^
 ||fr.gamercharts.com^
+||fr.goldenrivieracasino.com^
 ||fr.jeux.yahoo.com^
 ||fr.massivestarquiz.com^
 ||fr.minuporno.com^
@@ -11875,6 +12044,8 @@
 ||fr.redtube.com^
 ||fr.stripchat.com^
 ||fr.thepornlinks.com^
+||fr.tinderpressroom.com^
+||fr.unibetcasino.be^
 ||fr.xhamster.com^
 ||fr.xhamsterlive.com^
 ||fr.xnxx.place^
@@ -12223,7 +12394,10 @@
 ||french-games.net^
 ||french-manga.net^
 ||french-stream.bio^
+||french-stream.gratis^
 ||french-stream.how^
+||french-stream.one^
+||french-stream.pink^
 ||french.blog.eazel.com^
 ||frenchstream.net^
 ||frenchstream.top^
@@ -12341,6 +12515,7 @@
 ||fruitparty-slotgame.com^
 ||fruitridgehayrides.com^
 ||fruits-basket-rpg.jeun.fr^
+||fruitz.io^
 ||frustratedgamers.com^
 ||frutiparc.com^
 ||frvade.com^
@@ -15936,6 +16111,7 @@
 ||goons.io^
 ||goonstudios.com^
 ||goose.game^
+||gophdsststzy.org^
 ||gophergas.com^
 ||goplay.be^
 ||goplay.com^
@@ -16217,6 +16393,7 @@
 ||grovergaming.com^
 ||grovestreetgames.com^
 ||growlanser-realm.com^
+||growthbookproxy.tn-apis.com^
 ||growthelevators.online^
 ||growtopiagame.com^
 ||grrlswrrld.com^
@@ -16238,6 +16415,8 @@
 ||grzhtsexa.com^
 ||gs-pirates-xxxy3wpa5zctvgxxrhfn4.bloxd.io^
 ||gs1.net^
+||gs1.pokerpatio.com^
+||gs2.pokerpatio.com^
 ||gs3merchant.tripod.com^
 ||gs78.net^
 ||gsapmkdiwrsxxxm.net^
@@ -16286,6 +16465,7 @@
 ||gthsfwnudexing.net^
 ||gtl.xmp.net^
 ||gtplanet.net^
+||gtrvjvjhappnakv.fr^
 ||gtseriescenter.com^
 ||gtvault.com^
 ||gu3.co.jp^
@@ -16409,6 +16589,7 @@
 ||gwelith.co.uk^
 ||gwentchess.org.uk^
 ||gwento.click^
+||gwepbwin.net^
 ||gwfwsvygbrw.com^
 ||gwiapsexoadq.org^
 ||gwilliams.org.uk^
@@ -16759,6 +16940,7 @@
 ||hcl-bridge.com^
 ||hclips.com^
 ||hcobxxxnlgjd.org^
+||hcomgfwhdss.net^
 ||hcommgmt.com^
 ||hcrealms.com^
 ||hcxjxqzvfxamo.site^
@@ -16782,6 +16964,12 @@
 ||hdss.fr^
 ||hdss.rip^
 ||hdss.team^
+||hdssavlghklvvh.fr^
+||hdssbd.fr^
+||hdssmjmkk.test^
+||hdssmvuooz.com^
+||hdssonsotl.com^
+||hdssp.com^
 ||hdtoday.watch^
 ||hdtube.porn^
 ||hdugnbwsexfiws.org^
@@ -17246,6 +17434,7 @@
 ||hogame2021.com^
 ||hogddphxehqhn.site^
 ||hoggywarts.conforums.com^
+||hogphdssf.net^
 ||hogwarts-o-forum.bb-fr.com^
 ||hogwarts.kanak.fr^
 ||hogwarts25.proboards.com^
@@ -17469,6 +17658,7 @@
 ||hpiojmhtsxdvy.site^
 ||hplcpfxbquaek.space^
 ||hppriorincantato.yuku.com^
+||hpwtjbwinoiq.org^
 ||hpzexjqzmgoxxxx.net^
 ||hq-sex-tube.com^
 ||hqecuuqdexxxjp.org^
@@ -17699,6 +17889,7 @@
 ||i-zero-i.tripod.com^
 ||i.adultdvdtalk.com^
 ||i.hentaifox.com^
+||i.unibet.fr^
 ||i1-games.softpedia-static.com^
 ||i1237.photobucket.com^
 ||i2.xxxsexcomix.com^
@@ -17928,6 +18119,7 @@
 ||igvserver.com^
 ||igxe.com^
 ||ih.trawna.com^
+||ihdssz.org^
 ||ihnhhgfnqdfss.com^
 ||ihxxxfhgap.net^
 ||iiadplmykghcz.website^
@@ -17947,6 +18139,7 @@
 ||ijwcnuyyiydhc.website^
 ||ijwlqsexgkjivsu.net^
 ||ijy.cc^
+||ijywabwinkkfcln.com^
 ||ikamsaom.shop^
 ||ikariam.com.br^
 ||ikariam.com.ve^
@@ -18030,6 +18223,7 @@
 ||imagedescriber.online^
 ||imageform.se^
 ||imagendary.com^
+||images-ssl.gotinder.com^
 ||images.aventuria.com^
 ||images.hentainexus.com^
 ||images.nubiles-porn.com^
@@ -18067,8 +18261,10 @@
 ||imggen.eporner.com^
 ||imgnationstudios.tumblr.com^
 ||imgpop.online^
+||imgs.manganyaa.com^
 ||imgs1cdn.adultempire.com^
 ||imgur.com^
+||imhdssfjgr.fr^
 ||imhentai.xxx^
 ||iminlikewithyou.com^
 ||imirt.ie^
@@ -18127,16 +18323,19 @@
 ||impulsegear.com^
 ||imrierisleyminiatures.com^
 ||imsex.org^
+||imstore.bet365affiliates.com^
 ||imvu.com^
 ||imwsex.com^
 ||imxplayerpc.com^
 ||imythess.com^
 ||imz-gaming.com^
 ||in.com^
+||in.disanccasino.com^
 ||in.metamx.com^
 ||inadsexchange.com^
 ||inazumatv.fr^
 ||inbetweengames.com^
+||inboxcrm-ssl.gotinder.com^
 ||inboxify.cfd^
 ||incagames.com^
 ||incajuegos.com^
@@ -18230,6 +18429,7 @@
 ||infinite8.ae^
 ||infiniteammo.ca^
 ||infinitequalified.live^
+||infiniteunblocker.spacetechnology.net^
 ||infinitumgame.com^
 ||infinity-interactive.com^
 ||infinity2ltd.tripod.com^
@@ -18484,6 +18684,7 @@
 ||iogamesio.onl^
 ||iogamesio.org^
 ||iogamesl.xyz^
+||iohhdss.org^
 ||iohzuartnbtpm.online^
 ||ioi.dk^
 ||iom-media.com^
@@ -18539,6 +18740,7 @@
 ||iprughxoesexuru.net^
 ||ipsalderney.com^
 ||iptv-smarters.fr^
+||ipv4.vostfree.ws^
 ||ipyeexxxrv.com^
 ||iq-test.net^
 ||iqbht2tbqyiuehokqhk9f8fjrfqblmmg17z9ben.rest^
@@ -18673,6 +18875,8 @@
 ||itnata.site^
 ||itopvpn.com^
 ||itorrents-igruha.org^
+||itorrents.net^
+||itorrents.org^
 ||itp.live^
 ||itpetra.top^
 ||itpkmtyayxxxuqs.com^
@@ -18683,6 +18887,7 @@
 ||itscalledpvp.com^
 ||itsdcdn.com^
 ||itsecgames.com^
+||itsfqnyaa.test^
 ||itsgame7.com^
 ||itsgames.com^
 ||itsnotbadatall.com^
@@ -18881,6 +19086,8 @@
 ||jbridge.net^
 ||jbrqlbaikxxxth.com^
 ||jbuif.top^
+||jbwinmj.fr^
+||jbwinzavzaogl.test^
 ||jbzd.com.pl^
 ||jcdcdsxxxumtan.org^
 ||jcgames.fr^
@@ -18896,6 +19103,7 @@
 ||jcyoqxxxdfkcd.com^
 ||jdejuegos.com^
 ||jdghsqvxmcrzi.space^
+||jdhdssmsvcz.org^
 ||jdip.sourceforge.net^
 ||jdplc.com^
 ||jdr-delain.net^
@@ -19812,6 +20020,7 @@
 ||jnudebwbptiwnkx.fr^
 ||jnxxxay.fr^
 ||jo-mei.com^
+||jo.melbet.com^
 ||joa-casino.com^
 ||joaca-te.net^
 ||joaca.fanni.biz^
@@ -20050,6 +20259,7 @@
 ||jsexejqs.net^
 ||jsexsd.com^
 ||jsexxcedzdm.net^
+||jsinkhdss.fr^
 ||jspgames.com^
 ||jspimmksj.com^
 ||jspuzzles.com^
@@ -20538,6 +20748,7 @@
 ||jydwtlaiwgunsex.fr^
 ||jyivzxxxqymilp.com^
 ||jynx.com.br^
+||jyqbbwinnwcft.org^
 ||jytplay.com^
 ||jyunishi-rpg.superforum.fr^
 ||jyxxxwwe.fr^
@@ -20681,6 +20892,7 @@
 ||kastark.co.uk^
 ||kastre.fantazy.org^
 ||kaszzuhmyrvlh.site^
+||kat.proxyninja.org^
 ||katanasim.com^
 ||katapultstudio.com^
 ||katgames.com^
@@ -20697,6 +20909,7 @@
 ||kbfykeohzxxxlrp.org^
 ||kbgames.com^
 ||kbh-games.net^
+||kbhdsstpdjuz.net^
 ||kbhgames.com^
 ||kbjhhhfpmhsttwp.com^
 ||kblcxsoxssgds.online^
@@ -20712,7 +20925,9 @@
 ||kcndbc.webs.com^
 ||kcptsexkthnrgu.fr^
 ||kcsexdrrr.net^
+||kcvrphdss.net^
 ||kcxqrxxxyur.net^
+||kcyhdsszeqedyqk.org^
 ||kdathrill.fun^
 ||kdbcijmfcfqok.space^
 ||kdgames.top^
@@ -20867,6 +21082,7 @@
 ||kickalive.com^
 ||kickapoo-casino.com^
 ||kickassanime.mx^
+||kickasstorrents.proxyninja.org^
 ||kickback-studios.com^
 ||kickbot.live^
 ||kickgame.co.uk^
@@ -21151,9 +21367,11 @@
 ||kloppcoin.com^
 ||klqzqsexhydf.fr^
 ||klugeinteractive.com^
+||kluovrldbadoo.fr^
 ||klyuxbddxsfpvft.com^
 ||kmant.com^
 ||kmgassociates.com^
+||kmkhdssjvrl.org^
 ||kmmproductions.com^
 ||kmplayer.com^
 ||kmsgames.com^
@@ -21179,6 +21397,7 @@
 ||knightsofchaos.com^
 ||knightsoft.ca^
 ||knightsofterror.com^
+||knjizare-vulkan.rs^
 ||knkbxxxgpi.fr^
 ||knmoovpsrgydu.online^
 ||knnmlpqotn.com^
@@ -21189,6 +21408,7 @@
 ||knowledgescore.com^
 ||knoxpuzzles.com^
 ||knoxvillechess.org^
+||knqxtetgsgebwin.com^
 ||knuckleduster.com^
 ||knudepunkt.org^
 ||knutepunkt.org^
@@ -21347,7 +21567,9 @@
 ||kpopomo.shop^
 ||kpopp.io^
 ||kprobe.com^
+||kproxy-extension.fr.softonic.com^
 ||kproxy.com^
+||kpvkvbwinbq.fr^
 ||kqbjvelltwkhn.online^
 ||kqdtafnbhqx.com^
 ||kqfqmuklqvxxx.net^
@@ -21381,6 +21603,7 @@
 ||krazydad.com^
 ||krazyletter.com^
 ||krbearsanddolls.com^
+||krcbwinq.fr^
 ||kredvosexz.com^
 ||kreuzwort-raetsel.com^
 ||kreuzwort-raetsel.net^
@@ -21414,6 +21637,7 @@
 ||ksbkd4dhxxx3.l4.adsco.re^
 ||ksbkd4dhxxx3.n4.adsco.re^
 ||ksbkd4dhxxx3.s4.adsco.re^
+||ksbnfslbwinelje.org^
 ||ksexftly.org^
 ||ksexmzlnxhjef.com^
 ||ksexodcsnj.org^
@@ -21789,6 +22013,7 @@
 ||lbserver.xyz^
 ||lbsex.org^
 ||lbsrv.be^
+||lbwinfjtu.org^
 ||lbwxxxj.fr^
 ||lcdqwmfwbkbby.site^
 ||lcoat.tripod.com^
@@ -22430,6 +22655,7 @@
 ||logler.com^
 ||loglod.com^
 ||logogriph.cabanova.com^
+||lohdssrqvfu.fr^
 ||loiflix.org^
 ||loiflix.shop^
 ||loiflix.site^
@@ -22691,6 +22917,7 @@
 ||ltckdsexudi.net^
 ||ltcklbqrgfntl.website^
 ||ltdd.net^
+||ltfvymwfhbwin.fr^
 ||ltm25nmm3ppuwk5w79oghvhjjtjxm.cfd^
 ||ltmcdn.com^
 ||ltmhfsexaa.org^
@@ -22870,6 +23097,8 @@
 ||lzvwybvjrrryk.top^
 ||m-games-club.com^
 ||m-league.jp^
+||m.betclic.ci^
+||m.betclic.fr^
 ||m.livejasmin.com^
 ||m.porn3dx.com^
 ||m.porno666.tube^
@@ -23045,6 +23274,7 @@
 ||magicthegatheringdatabase.com^
 ||magictour.free.fr^
 ||magictrade.org^
+||magicwin-casino-uk.com^
 ||magicworkstation.com^
 ||magietopia.tk^
 ||magikmobile.com^
@@ -23056,6 +23286,7 @@
 ||magma-studios.com^
 ||magmamobile.com^
 ||magmic.com^
+||magnetdl.proxyninja.org^
 ||magnopus.com^
 ||magnum.com.my^
 ||magnumarcade.com^
@@ -23318,6 +23549,7 @@
 ||markermetro.com^
 ||marketer.club^
 ||marketexecution.cfd^
+||marketing-images.gotinder.com^
 ||marketjs.com^
 ||markfennell.com^
 ||markovforums.com^
@@ -23527,6 +23759,7 @@
 ||mbsgames.com^
 ||mbtmv.org^
 ||mbwbm.org^
+||mbwinqb.net^
 ||mbwlpblrxxx.com^
 ||mbwnp.org^
 ||mbwww.org^
@@ -23763,7 +23996,22 @@
 ||megugames.com^
 ||meh.altervista.org^
 ||meiliangame.com^
+||meilleur-casino-bonus.lesucre.com^
+||meilleur-casino.uic.fr^
+||meilleur-casinos.haut-couserans.com^
+||meilleur-casinos.uic.fr^
+||meilleur.casinosenlignefr.net^
+||meilleurcasino.pontdarc-ardeche.fr^
+||meilleurcasinobonus.lesucre.com^
+||meilleurcasinoenligne.uk.com^
+||meilleurcasinos-fr.forexagone.com^
+||meilleurcasinosanskyc.adivbois.org^
+||meilleurcasinosanskyc.loeilurbain.fr^
+||meilleurcasinoslive.datchamandala.net^
 ||meilleurjeu.com^
+||meilleurlivecasino.datchamandala.net^
+||meilleurscasino.icinori.com^
+||meilleurscasinos.intervention-antinuisible.fr^
 ||meilleursjeux.com^
 ||meilleursjeux.net^
 ||meilleursjeuxgratuits.com^
@@ -23785,6 +24033,7 @@
 ||melee.gg^
 ||meliorgames.com^
 ||melkot.com^
+||melleurcasinofrance.justebien.fr^
 ||mellow-games.com^
 ||melmac.space^
 ||meln.top^
@@ -23968,6 +24217,7 @@
 ||mgsxmml.com^
 ||mgvc.com^
 ||mhaeassexidc.com^
+||mhdssjvv.net^
 ||mhentai.net^
 ||mhero.de^
 ||mhho.com^
@@ -24018,6 +24268,7 @@
 ||midgar-studio.com^
 ||midgardlegend.com^
 ||midgardlgend.com^
+||midgnsbwin.test^
 ||midievalrpg.proboards27.com^
 ||midishrine.com^
 ||midjiwan.com^
@@ -25307,6 +25558,7 @@
 ||mutatismutandis.org^
 ||muti-geomjeung.com^
 ||mutinybros.com^
+||muvwfzhdsstnn.org^
 ||muxxu.com^
 ||muzpro.net^
 ||muzzylane.com^
@@ -25462,6 +25714,7 @@
 ||myspaceofgames.com^
 ||mysportsbook.com^
 ||myst5.com^
+||mystake.ft-crm.com^
 ||mystake3.com^
 ||mystaraproject.tripod.com^
 ||mystcommunity.com^
@@ -25616,6 +25869,7 @@
 ||nanovationlabs.com^
 ||nantgames.com^
 ||nanvaent.org^
+||naobadoodnnp.net^
 ||naochuanyue.com^
 ||napit.co.uk^
 ||napoleongames.be^
@@ -25831,6 +26085,7 @@
 ||neopopcorn.modoo.at^
 ||neoqsexqqdy.org^
 ||neoromcollector.net^
+||neortimev6.meetic.com.akadns.net^
 ||neostream.com^
 ||neowiz.com^
 ||nepab.com^
@@ -25864,6 +26119,7 @@
 ||nerosclarp.com^
 ||neroswv.com^
 ||nertz.com^
+||nerv.8kun.top^
 ||nervesoftware.com^
 ||nerxnxxad.fr^
 ||nes-games.de^
@@ -26314,6 +26570,7 @@
 ||nkidu.com^
 ||nksex.org^
 ||nkxxxt.net^
+||nl.hideproxy.me^
 ||nl2vq6w96jjc2iq8irq.cfd^
 ||nlcbplaywhelotto.com^
 ||nlhsmlnnnhgpv.online^
@@ -26330,6 +26587,7 @@
 ||nmkockexxxomkjp.org^
 ||nmlottery.com^
 ||nmmdxxxrarhztzr.net^
+||nmpdhuwuoxrbwin.net^
 ||nmpkoqqnqmtxxxn.com^
 ||nmsexgco.fr^
 ||nmwonfbxdjeoq.site^
@@ -26367,6 +26625,7 @@
 ||nogoblin.com^
 ||nogravitydevelopment.com^
 ||nogravitygames.com^
+||nohappnng.com^
 ||noice.com^
 ||noidgames.com^
 ||noio.nl^
@@ -26482,6 +26741,15 @@
 ||notube.lol^
 ||notube.me^
 ||notube.net^
+||nouveau-casino.burton.fr^
+||nouveau-casinos.newflux.fr^
+||nouveaucasinoenligne.newflux.fr^
+||nouveaucasinofrancais.vegan-france.fr^
+||nouveaucasinos.ccn2.fr^
+||nouveaucasinosenligne.ccn2.fr^
+||nouveaux-casino-en-ligne.fr^
+||nouveauxcasino.newflux.fr^
+||nouveauxcasinosenligne.ccn2.fr^
 ||nouvelle-aquitaine.science^
 ||nova-stream.live^
 ||novacatclan.tripod.com^
@@ -26653,7 +26921,9 @@
 ||nvixxx.com^
 ||nvizzio.com^
 ||nvjnxxxloesix.net^
+||nvlexrqsscbwin.fr^
 ||nvqvibvtalsmj.online^
+||nvrpbwinxoiecv.net^
 ||nvsgames.cn^
 ||nvsgames.com^
 ||nvssexgjabane.com^
@@ -26685,6 +26955,7 @@
 ||nxxxvhekhe.fr^
 ||ny-mafia.com^
 ||ny6xf25veivp8uputjovp.cfd^
+||nyaa.unblockninja.st^
 ||nyamakop.co.za^
 ||nyamyam.com^
 ||nyboria.de^
@@ -26816,6 +27087,7 @@
 ||oddzbreaker.com^
 ||odelion.fr^
 ||odierulz.tripod.com^
+||odilvbwinmdphzt.fr^
 ||odingamestudio.com.br^
 ||odium.dkpsystem.com^
 ||odixea.altervista.org^
@@ -26980,6 +27252,7 @@
 ||olwydd.org^
 ||olygamefarm.com^
 ||olyglxgjaihwj.space^
+||olympecasino.com.co^
 ||olympemaxime.proboards.com^
 ||olympiaquest.com^
 ||olympic-casino.com^
@@ -26997,10 +27270,12 @@
 ||omegacomplex.com^
 ||omegaforce.us^
 ||omegato.click^
+||omegle-91732.firebaseapp.com^
 ||omegle.com^
 ||omegle.fun^
 ||omegle.life^
 ||omegle.onl^
+||omegleweb.io^
 ||omertabeyond.com^
 ||omertasyndicate.com^
 ||ometv.chat^
@@ -27011,6 +27286,7 @@
 ||omgn.com^
 ||omgpop.com^
 ||omgspider.com^
+||omhdsszo.fr^
 ||ominousdev.tripod.com^
 ||omiyagames.com^
 ||omlettesoft.com^
@@ -27377,6 +27653,7 @@
 ||oolcomxernxph.store^
 ||oos.moxiecode.com^
 ||ootii.com^
+||ooucbyanyaa.fr^
 ||op.gg^
 ||opaque.media^
 ||opdhcaoujxazk.space^
@@ -27412,6 +27689,7 @@
 ||operationplastic.com^
 ||operationsports.com^
 ||operationsupplydrop.org^
+||operator-front-static-cdn.winamax.fr^
 ||opernhausgamestudio.com^
 ||opfeywaosmpxxx.org^
 ||opgsexe.com^
@@ -27459,6 +27737,7 @@
 ||orbitermars.co.uk^
 ||orbithangar.com^
 ||orbitzgames.com^
+||orbnyaa.net^
 ||orcarigames.com^
 ||orchestralmedia.co.uk^
 ||orchidgames.com^
@@ -27937,8 +28216,10 @@
 ||paperunicorngames.com^
 ||papetura.com^
 ||papumba.com^
+||papystreaming.cam^
 ||papystreaming.net^
 ||papystreaming.ninja^
+||papystreaming.one^
 ||papystreaming.vip^
 ||papystreaminghd.net^
 ||paquitoo.com^
@@ -27980,6 +28261,8 @@
 ||pariah-productions.com^
 ||pariahinteractive.com^
 ||parieurs-sportifs.com^
+||parionssport-point-de-vente.fr.softonic.com^
+||parionssport.fr^
 ||pariplayltd.com^
 ||paris-art.com^
 ||paris-artdeco.org^
@@ -28116,6 +28399,7 @@
 ||paynplaycasinos.nz^
 ||payplay.fm^
 ||paysaubenasvals.fr^
+||paywebproxy-ext-api.ebay.com^
 ||pazlyigra.ru^
 ||pbbans.com^
 ||pbbg.wikidot.com^
@@ -28177,6 +28461,7 @@
 ||pcpowerplay.com.au^
 ||pcsauvntjwrxm.website^
 ||pcsexhdqe.com^
+||pcshdssnscolqqt.test^
 ||pcsx-df.sourceforge.net^
 ||pcsx2.net^
 ||pcwttlywhnxkx.com^
@@ -28285,6 +28570,7 @@
 ||pepestudio.store^
 ||pepetes.com^
 ||pepgamez.com^
+||pepiiobwinsl.com^
 ||pepijuegos.com^
 ||peppercorn.co.uk^
 ||peppermillcasino.be^
@@ -28992,6 +29278,7 @@
 ||play.md^
 ||play.net^
 ||play.pl^
+||play.pokerpatio.com^
 ||play.st^
 ||play.tm^
 ||play.vg^
@@ -29671,6 +29958,7 @@
 ||playray.de^
 ||playredfox.com^
 ||playredstarpokerbrasilia.com^
+||playregals.casino^
 ||playreplay.me^
 ||playrequiem.com^
 ||playretrogames.com^
@@ -30148,6 +30436,7 @@
 ||pokersharks.es^
 ||pokersharpener.com^
 ||pokerstars.com^
+||pokerstars.everestengagement.com^
 ||pokerstars.fr^
 ||pokerstarsnetwork.com^
 ||pokerstrategy.com^
@@ -30519,6 +30808,7 @@
 ||predestinationgame.com^
 ||predictionerror.com^
 ||predictroulette.com^
+||prefcasino.com^
 ||pregame.com^
 ||prehackshub.com^
 ||prehistorickingdom.com^
@@ -30755,6 +31045,7 @@
 ||proxylite.com^
 ||proxyman.com^
 ||proxynet.io^
+||proxyninja.org^
 ||proxynova.com^
 ||proxyorb.com^
 ||proxyou.com^
@@ -30903,6 +31194,7 @@
 ||puppygames.net^
 ||pupspace.net^
 ||pupugames.com^
+||puqrjxtbyxhdssx.com^
 ||purebang.com^
 ||pureclubbin.com^
 ||puredressup.com^
@@ -30929,6 +31221,7 @@
 ||pushtop.com^
 ||pussy888play.co^
 ||pussy888play.com^
+||pussygrindr.com^
 ||pussyporntubes.com^
 ||pussyspace.net^
 ||putlocker-9.com^
@@ -31046,6 +31339,7 @@
 ||pvcxnxxpomrrj.org^
 ||pvdbkr.com^
 ||pvepwssxxxc.org^
+||pvlkhdssfoosyl.com^
 ||pvp.net^
 ||pvpoke.com^
 ||pvvkigebunabd.site^
@@ -31166,6 +31460,9 @@
 ||qgysnsexzu.org^
 ||qhcf.net^
 ||qhdlrubf.com^
+||qhdsslvr.net^
+||qhdsspv.test^
+||qhebwintv.org^
 ||qhgrcxasexwav.com^
 ||qhmxxxcodgjl.l4.adsco.re^
 ||qhmxxxcodgjl.n4.adsco.re^
@@ -31244,6 +31541,7 @@
 ||qsexwnheb.fr^
 ||qsexyhspcsk.com^
 ||qsexyocnfkwttj.fr^
+||qsnbwinkxpuj.test^
 ||qsvvffxxxfrq.fr^
 ||qtads.sourceforge.net^
 ||qtlcdn.com^
@@ -31523,6 +31821,7 @@
 ||raging-fury.org^
 ||ragnarbrothers.co.uk^
 ||ragnarok-bot.ucoz.net^
+||ragnarok.manganyaa.com^
 ||ragnarokhq.com^
 ||ragtagstudio.com^
 ||rai88games.com^
@@ -31601,6 +31900,7 @@
 ||raptor-pack.com^
 ||rapturetech.com^
 ||raqkmfkqbxxxbsa.net^
+||rarbguntwltih.fr^
 ||rare.co.uk^
 ||rarebyte.com^
 ||rarecoin.store^
@@ -32022,6 +32322,7 @@
 ||requiemeternum.com^
 ||rerevisited.tripod.com^
 ||reroll1s.com^
+||res5.psel.parionssport.fdj.fr^
 ||research.games^
 ||reseaulilas.fr^
 ||reseausportsadultes.com^
@@ -32853,6 +33154,7 @@
 ||rvohixxx.com^
 ||rvxxxajgwr.net^
 ||rwartow.tripod.com^
+||rwbwin.net^
 ||rwec35g8m5w6cpl2rubv6lx.rest^
 ||rwmsoftware.com^
 ||rwxxxh.org^
@@ -33156,6 +33458,7 @@
 ||sbunorth.co.uk^
 ||sbusouthern.co.uk^
 ||sbvjzabfsexo.org^
+||sbwine.org^
 ||sc-cdn.net^
 ||sc-clans.tripod.com^
 ||sc-gut-blatt.de^
@@ -33790,6 +34093,7 @@
 ||sfol.net^
 ||sfolweb.com^
 ||sfp.plit.dk^
+||sfpadokoehdssil.fr^
 ||sfplayhouse.org^
 ||sfr-inc.com^
 ||sfrpg.com^
@@ -33803,6 +34107,7 @@
 ||sgamer.com^
 ||sgames.org^
 ||sgazxwpurrfsy.space^
+||sgcasino-7773.com^
 ||sgda.ch^
 ||sgda.sk^
 ||sgeseller.shop^
@@ -33863,6 +34168,7 @@
 ||share-games.com^
 ||share-nude.com^
 ||sharecare.com^
+||shared.cdn.jackpot.de^
 ||sharedflashgames.com^
 ||shareitgames.com^
 ||shareminecraftvideos.com^
@@ -34238,6 +34544,7 @@
 ||site-de-filles.com^
 ||site-de-jeux.be^
 ||site-jeux.com^
+||sitecasinoenligne.supdemod.eu^
 ||sitedegames.com^
 ||sitejeuxdefille.com^
 ||sitesporno.com^
@@ -34667,6 +34974,7 @@
 ||snsplus.com^
 ||snssb.com^
 ||snxxxplgx.com^
+||snyukehdssyj.fr^
 ||so-games.com^
 ||so-tal.com^
 ||soa.org.uk^
@@ -34735,6 +35043,7 @@
 ||softplay.com^
 ||softrail.com^
 ||softrains.games^
+||softserve.8kun.top^
 ||softspotsoftware.com^
 ||softstar.com.tw^
 ||software-illusions.co.uk^
@@ -35092,6 +35401,7 @@
 ||spelstaat.nl^
 ||spelunkyworld.com^
 ||sperasoft.com^
+||sphdss.org^
 ||spheredev.org^
 ||spheresmux.net^
 ||spheresofpower.wikidot.com^
@@ -35554,6 +35864,7 @@
 ||stateofplaygames.com^
 ||stateofworkingamerica.org^
 ||statfox.com^
+||static-assets.gotinder.com^
 ||static-ca-cdn.eporner.com^
 ||static-cdn77.xvideos-cdn.com^
 ||static.3dporndude.com^
@@ -35568,6 +35879,7 @@
 ||static.perfectgirls.xxx^
 ||static.porngameshub.com^
 ||static.thenude.com^
+||static.winamax.fr^
 ||static1.spilcdn.com^
 ||static2.onlyfans.com^
 ||static2.spilcdn.com^
@@ -35945,6 +36257,7 @@
 ||stupidity.com^
 ||stupidranger.com^
 ||stutterfoxstudios.com^
+||stw.wawacity.diy^
 ||stygianthegame.com^
 ||style.baduk.org^
 ||styopkin.narod.ru^
@@ -36453,6 +36766,8 @@
 ||t4c.com^
 ||t4c.thevine.net^
 ||t4cbible.com^
+||t5.psel.parionssport.fdj.fr^
+||t6.auto.parionssport.fdj.fr^
 ||tabac-des-battieres.com^
 ||tabcreations.com^
 ||tabientertainment.com^
@@ -38127,6 +38442,7 @@
 ||torgnol.com^
 ||torii-games.com^
 ||toritogames.com^
+||torlock.proxyninja.org^
 ||torn.com^
 ||tornadogames.com^
 ||tornbanner.com^
@@ -38138,10 +38454,13 @@
 ||torquemada-games.com^
 ||torrent-games.games^
 ||torrent-games.net^
+||torrent-stats.info^
+||torrentdownloads.proxyninja.org^
 ||torrentsgames.org^
 ||torrentsome128.com^
 ||torrentsome133.com^
 ||torrentsome134.com^
+||torrentz.adtrackers.net^
 ||tortugateam.com^
 ||tortusland.cjb.net^
 ||torus.com.au^
@@ -38276,6 +38595,7 @@
 ||tqzlmtiwnl.com^
 ||tr.hqporn.xxx^
 ||tr.justagamer.com^
+||track-us-22bet.ubidex.xyz^
 ||track.cam4.com^
 ||track.cam4tracking.com^
 ||trackballs.sourceforge.net^
@@ -38308,6 +38628,7 @@
 ||trafficjunky.com^
 ||trafficjunky.net^
 ||tragajuegos.com^
+||trahbwinbo.com^
 ||trahkino.me^
 ||trailheadartisancollect.store^
 ||trailmixgames.com^
@@ -38500,6 +38821,7 @@
 ||trixmen.com^
 ||trjhwbfhqpcwj.website^
 ||trkonline.online^
+||trlthdssnnm.com^
 ||trmk.org^
 ||tro-online.com^
 ||trobble.com^
@@ -38729,6 +39051,7 @@
 ||tv2play.hu^
 ||tv3play.se^
 ||tv4play.se^
+||tvbo4mem7gmchpfpuqg4wii7tppgn6dq._domainkey.emails.betclic.fr^
 ||tvepoexxx.org^
 ||tvfdwzh.com^
 ||tvfplay.com^
@@ -38888,6 +39211,7 @@
 ||ubopleobsext.fr^
 ||ubsg.webs.com^
 ||ubssxfunnecbf.website^
+||ubwintufbyzok.test^
 ||ucanplay.com^
 ||ucantlose.co.uk^
 ||ucaqyqsexywedh.org^
@@ -38900,6 +39224,7 @@
 ||ucon-gaming.org^
 ||ucuumhsxenzwq.online^
 ||ucuviuptlbxdl.website^
+||ucvlahdssybh.test^
 ||ucw.dustbite.net^
 ||ucwgyxxxdehoaz.net^
 ||udic.org^
@@ -38909,9 +39234,11 @@
 ||udsexm.fr^
 ||udsexyavpd.net^
 ||udtdxbqavttyz.online^
+||uduafhdsswzetsa.com^
 ||udxxxmt.org^
 ||udzdyjsexlq.fr^
 ||ueiqbixjhesexc.org^
+||uelfruitzb.com^
 ||uesp.net^
 ||uexxxgboqi.com^
 ||uexxxriwjsij.com^
@@ -39154,6 +39481,7 @@
 ||ungrandt.com.ar^
 ||ungrounded.net^
 ||unhsdtrisexkp.org^
+||unibet.com^
 ||unibet.fr^
 ||unibetcasino.be^
 ||unicorns.org.uk^
@@ -39168,6 +39496,7 @@
 ||unique-games.com^
 ||unique-names.com^
 ||uniquebrand.fr^
+||uniquecasinoconnexion.fr^
 ||uniquecasinogame.com^
 ||uniquecraft.eu^
 ||uniquedice.com^
@@ -39504,6 +39833,7 @@
 ||uzsexxoj.com^
 ||v-aviation.net^
 ||v-schlachtfeld.net^
+||v.ladidacasino.com^
 ||v.tikporn.tube^
 ||v10.events.data.microsoft.com^
 ||v10.vortex-win.data.microsoft.com^
@@ -39607,6 +39937,7 @@
 ||vatsim.net^
 ||vaultedskygames.com^
 ||vavada-kz-game.kz^
+||vavecasino.eu.com^
 ||vavepartners.com^
 ||vavzliwmilfyz.fr^
 ||vaxia.org^
@@ -39772,6 +40103,7 @@
 ||vgyrskps.com^
 ||vhasqrvb.com^
 ||vhdoxakztfwdp.website^
+||vhdsszsvsoi.com^
 ||vhornet.com^
 ||vhpg.com^
 ||vhutjawpbejvc.website^
@@ -40064,6 +40396,7 @@
 ||vjdxxxzlmtxw.com^
 ||vjeux.com^
 ||vkcdn.ru^
+||vkcsbwiny.fr^
 ||vknfnxxxixgm.com^
 ||vkplay.ru^
 ||vkuwsex.fr^
@@ -40129,6 +40462,12 @@
 ||voir-series.lol^
 ||voiranime.com^
 ||voirfilm.cam^
+||voirfilm.link^
+||voirfilm.red^
+||voirfilm.sa.com^
+||voirfilm.video^
+||voirfilms-fr.com^
+||voirfilms.com.cv^
 ||voirfilms.cz^
 ||voirfilms.net^
 ||voirfilmvf.cloud^
@@ -40168,9 +40507,12 @@
 ||vosjeux.fr^
 ||vospzvrofurow.online^
 ||vost.pw^
+||vostfree.co^
 ||vostfree.com^
 ||vostfree.fr^
+||vostfree.it.com^
 ||vostfree.ws^
+||vostfree.za.com^
 ||vostokgames.com^
 ||vostream.live^
 ||votreblogperso.free.fr^
@@ -40245,6 +40587,7 @@
 ||vsgamers.es^
 ||vshcdn.net^
 ||vshxtggsdki.com^
+||vshyhdssyu.com^
 ||vsjoigxxxrniep.fr^
 ||vsmssexvygnr.fr^
 ||vsoc.sourceforge.net^
@@ -40279,6 +40622,7 @@
 ||vulkan-plays.ru^
 ||vulkanbet-play.pl^
 ||vulkancasinogames.com^
+||vulkanmagazine.com^
 ||vulkanplatinum-games.com^
 ||vulpinegame.com^
 ||vulyplay.com^
@@ -40287,6 +40631,7 @@
 ||vuplayer.com^
 ||vurt.net^
 ||vusextfz.fr^
+||vv2.french-stream.how^
 ||vvcrrkqgjkodt.online^
 ||vvcszpzpuceps.space^
 ||vvisions.com^
@@ -40320,6 +40665,7 @@
 ||vzlxxxrnfrlo.net^
 ||w1r7r3fl4q4n2qkbc.rest^
 ||w2g.tv^
+||w30.voirfilm.plus^
 ||w3arcade.com^
 ||w4games.com^
 ||w7qngu4ehiwroxb.rest^
@@ -40566,6 +40912,7 @@
 ||wavsozhjjmoxxxk.org^
 ||wawa.games^
 ||wawacity.al^
+||wawacity.diy^
 ||wawgame.com^
 ||wax.co.za^
 ||waydowndeep.com^
@@ -40596,6 +40943,7 @@
 ||wbsrvcx.com^
 ||wbtrjnoeqsexkb.org^
 ||wbtrk.net^
+||wbwiniblpkgcq.org^
 ||wbymxxxxrwitllw.com^
 ||wcbo.org^
 ||wcdonalds.com^
@@ -40649,6 +40997,7 @@
 ||web-jong.com^
 ||web-proxy.site^
 ||web-schach.org^
+||web.cdn.jackpot.de^
 ||web.icq.com^
 ||web.sigames.com^
 ||web2mail.com^
@@ -40658,6 +41007,7 @@
 ||webb.game^
 ||webbed.website^
 ||webbkryss.nu^
+||webchathub.sage.com^
 ||webchoc.com^
 ||webcoregames.com.br^
 ||webcrosswords.com^
@@ -40693,6 +41043,8 @@
 ||webpageviews.click^
 ||webpaws.com^
 ||webpornhub.com^
+||webproxy.bible.com^
+||webproxy.unige.ch^
 ||webpuzzle.de^
 ||webpuzzle.org^
 ||webschnapsen.com^
@@ -40849,6 +41201,7 @@
 ||whatupgames.com^
 ||whbqiksexjg.com^
 ||whdownload.com^
+||whdssqlpl.test^
 ||wheelgames.org^
 ||wheelingisland.com^
 ||wheels-games.com^
@@ -40920,6 +41273,7 @@
 ||wiflix-site.com^
 ||wiflix.al^
 ||wiflix.blue^
+||wiflix.fr^
 ||wiflix.im^
 ||wiflix.mov^
 ||wiflix.vin^
@@ -41150,9 +41504,12 @@
 ||wklcdn.com^
 ||wkwdmllrmscgp.space^
 ||wkxcxnsvdhsese.com^
+||wlbetclicfr.adsrv.eacdn.com^
+||wlbetclicfr.eacdn.com^
 ||wlcdn88.com^
 ||wlcdn99.com^
 ||wlgbc.co.uk^
+||wlhdssfd.fr^
 ||wljkhbxxxehred.fr^
 ||wlvvvlvgclmp.com^
 ||wmcdp.io^
@@ -41582,6 +41939,7 @@
 ||ww3.click^
 ||ww4.click^
 ||ww4.live^
+||ww6.voirfilms.net^
 ||wwaexxxzeejso.fr^
 ||wwcxxxvzgmqej.org^
 ||wwe.com^
@@ -41593,6 +41951,7 @@
 ||wwschool.de^
 ||wwtfmeonvlazu.online^
 ||wwvkgsexw.com^
+||wwvv.sokroflix.org^
 ||www-lordfilm1.org^
 ||www-minecraft.ru^
 ||www-sakuhentai-net.zproxy.org^
@@ -41608,19 +41967,63 @@
 ||www.avisexplore.com^
 ||www.aznude.com^
 ||www.balancetanude.fr^
+||www.barberstake.com^
+||www.betclic-bordeaux-premierpadel.com^
+||www.betclic.ci^
+||www.betclic.com^
+||www.betclic.fr^
+||www.betify-frcasino.eu.com^
 ||www.bigporn.com^
 ||www.black-sexy.net^
+||www.blockaway.com^
+||www.blockaway.net^
 ||www.blog-adultes.com^
 ||www.boostedporn.com^
 ||www.brazzers.com^
+||www.bwin.fr^
 ||www.cam4.com^
 ||www.cartoonporno.xxx^
+||www.casino-annecy.com^
+||www.casino-en-ligne-fiables.us.com^
+||www.casino-frejus.fr^
+||www.casino-sans-depot.cn.com^
+||www.casino.org^
+||www.casino777.ch^
+||www.casinobarcelona.com^
+||www.casinocayenne.com^
+||www.casinoenlignefiablefrance.us.com^
+||www.casinoenlignefiables.uk.com^
+||www.casinoenlignefiables.us.com^
+||www.casinoenlignefrancais.sa.com^
+||www.casinoonlinefrance2026.in.net^
+||www.casinoperalada.com^
+||www.casinos-en-ligne-fiables.gb.net^
+||www.casinosavenue.com^
+||www.casinosbarriere.com^
+||www.casinosenlignefiable.in.net^
+||www.casinosenlignefiablefrance.us.com^
+||www.casinosenlignefrancais.uk.com^
+||www.casinosenlignefrance.uk.com^
+||www.casinosenlignemeilleur.jp.net^
+||www.casinosonlinesuisse.com^
 ||www.clubpornostars.com^
+||www.coflix.com^
+||www.coflix.fr^
 ||www.colocation-adulte.fr^
 ||www.conditionsextremes.com^
 ||www.createhentai.com^
 ||www.createporn.com^
+||www.croxy.org^
+||www.croxyproxy.com^
+||www.croxyproxy.fr^
+||www.croxyproxy.net^
+||www.croxyproxy.rocks^
+||www.croxyproxycom.com^
+||www.cryptocasinofrance.uk.net^
+||www.darkino.fr^
 ||www.date4sex.biz^
+||www.empire-stream.fr^
+||www.enligne.parionssport.fdj.fr^
 ||www.eporner.com^
 ||www.eroticbeauties.net^
 ||www.escortsexepic.net^
@@ -41628,47 +42031,76 @@
 ||www.fantasyescortblogs.com^
 ||www.fetishpapa.com^
 ||www.filmpornofrancais.fr^
+||www.filmstreaming1.link^
+||www.filmstreaming1.me^
 ||www.folieporno.fr^
 ||www.fpo.xxx^
 ||www.franporn.com^
+||www.french-stream.al^
 ||www.fuckvideos.xxx^
 ||www.fullxxxporno.com^
 ||www.goodtimexxx.com^
+||www.happn.com^
 ||www.harshsex.com^
 ||www.hdnakedgirls.com^
+||www.hdss.fr^
+||www.hdss.rip^
+||www.hdss.team^
 ||www.hentaigem.com^
 ||www.hentaiheroes.com^
 ||www.hentairider.com^
 ||www.hentairoshi.com^
+||www.hollywoodcasinostlouis.com^
+||www.homepage.enligne.parionssport.fdj.fr^
 ||www.hotporntubes.com^
 ||www.illicoporno.com^
 ||www.ixxx.com^
+||www.jeuxcasino.com^
 ||www.jeuxdesex.fr^
 ||www.jeuxporno.eu^
+||www.knjizare-vulkan.rs^
 ||www.komilfo.fr^
+||www.kproxy.com^
 ||www.lasexta.com^
 ||www.lesbian-porn-videos.com^
 ||www.livejasmin.com^
 ||www.louisexplique.com^
+||www.lovoo.com^
 ||www.lustfulporno.com^
+||www.mac-torrents.net^
+||www.meetic.fr^
 ||www.megatube.xxx^
+||www.meilleur-casinos-en-ligne.co.com^
+||www.meilleurcasinoenligne.jp.net^
+||www.meilleurcasinosenligne.co.com^
+||www.meilleurcasinosenligne.us.org^
 ||www.meufultrasexy.com^
 ||www.milfenchaleur.com^
 ||www.milffinder.com^
 ||www.milfporn.tv^
 ||www.minimaxxx.com^
+||www.miraxcasino1.com^
 ||www.modelescortsindelhi.com^
 ||www.monporno.fr^
 ||www.mvideoporno.xxx^
+||www.myjackpot.fr^
 ||www.nakedcph.com^
 ||www.nakedgirls.mobi^
 ||www.nakedoll.com^
 ||www.naughtyhentai.com^
 ||www.nudecelebscenes.com^
+||www.nyaa.fr^
+||www.omegle.fun^
+||www.onlinecasinosuisse.com^
 ||www.onlyjuicysex.com^
+||www.parionssport.fdj.fr^
+||www.peppermillcasino.be^
 ||www.perfectgirls.xxx^
 ||www.photosexy.eu^
 ||www.planescort.com^
+||www.pointdevente.parionssport.fdj.fr^
+||www.pokerstars.com^
+||www.pokerstars.fr^
 ||www.porn-comic.com^
 ||www.porn.biz^
 ||www.porn.com^
@@ -41701,6 +42133,8 @@
 ||www.prettypornos.com^
 ||www.profsexperts.ma^
 ||www.proxisexo.fr^
+||www.proxysite.com^
+||www.ptorrents.com^
 ||www.puckerporn.com^
 ||www.questionsexualite.fr^
 ||www.redtube.com.br^
@@ -41728,17 +42162,30 @@
 ||www.teensexyvideos.com^
 ||www.thepornlist.net^
 ||www.tinysextube.com^
+||www.tirexo.al^
+||www.tirexo.fit^
 ||www.top-site-adulte.fr^
+||www.top10descasinos.com^
 ||www.topduporno.com^
 ||www.tqfrxxxg.com^
 ||www.trixhentai.com^
 ||www.tubepornstars.com^
 ||www.tubev.sex^
 ||www.ufreeporn.org^
+||www.unibet.com^
+||www.unibet.fr^
+||www.utorrent.com^
 ||www.valorantpornhentai.com^
 ||www.violences-sexuelles-culture.org^
+||www.voirfilms.cz^
+||www.vostfree.co^
+||www.vostfree.fr^
 ||www.vporno.tv^
+||www.wawacity.al^
+||www.wawacity.diy^
 ||www.wearesexe.com^
+||www.wiflix.al^
+||www.winamax.fr^
 ||www.xnxx.com^
 ||www.xnxx.es^
 ||www.xvideos.com^
@@ -41748,6 +42195,7 @@
 ||www.yesgirlsporn.com^
 ||www.youporn.com^
 ||www.youx.xxx^
+||www.zone-telechargement.al^
 ||www1.essex.ac.uk^
 ||www2.footdudimanche.com^
 ||www2.france-jeunes.net^
@@ -41756,6 +42204,7 @@
 ||www2022.essex.ac.uk^
 ||www4.porno666.cloud^
 ||www6.silvercrk.com^
+||wwwcasinoscores.com^
 ||wwwp.porno666.news^
 ||wwxdfcjxxx.net^
 ||wwxxxadczetuv.com^
@@ -41819,6 +42268,7 @@
 ||xacgame.top^
 ||xacgame2.top^
 ||xai.games^
+||xaihyvulhdss.fr^
 ||xajgmxmudhmlkgs.com^
 ||xalafilm.men^
 ||xalafix.men^
@@ -41850,6 +42300,7 @@
 ||xarchon.seul.org^
 ||xariah.net^
 ||xatsjwiuwtgkm.site^
+||xauth.enligne.parionssport.fdj.fr^
 ||xavagus.com^
 ||xavbox.free.fr^
 ||xavboxwii.com^
@@ -41936,6 +42387,7 @@
 ||xesexjlqq.com^
 ||xesexrlhlwcc.net^
 ||xeufxxxc.com^
+||xevnahdsszhtl.org^
 ||xfire.com^
 ||xfjyxxxvm.org^
 ||xflashgames.com^
@@ -41945,6 +42397,7 @@
 ||xfrenchies.com^
 ||xfuisexynm.fr^
 ||xfzpclqigxxx.org^
+||xgafylvednhdssn.net^
 ||xgam.org^
 ||xgamersleague.com^
 ||xgames.com^
@@ -42567,6 +43020,7 @@
 ||yfdjbdkoykwtq.online^
 ||yfljrlxxxr.net^
 ||yfqinbchjpuusex.org^
+||yfrkyibwinjkcj.net^
 ||yfsp.tv^
 ||yfuaaejnsexzvoq.org^
 ||yfxzx0dcw.space^
@@ -42578,6 +43032,7 @@
 ||ygoprodeck.com^
 ||ygoqsybudqczf.website^
 ||ygorganization.com^
+||ygwobwinejnedoz.fr^
 ||ygwpornyf.fr^
 ||ygzq1zr7p7nfgw7j.site^
 ||yhbgxoxxbahld.site^
@@ -42727,6 +43182,7 @@
 ||yrbnxornsexojdv.net^
 ||yrdsdifwwlicc.site^
 ||yrfginuxxx.fr^
+||yrhdssnhwkdiy.org^
 ||yrhzytcrqnbtj.site^
 ||yrk168game.com^
 ||yrporno.com^
@@ -42736,11 +43192,13 @@
 ||yskxarvxxxkyba.com^
 ||ysmqmilfoossoyj.fr^
 ||ysnet-inc.jp^
+||ysohdihdssyo.test^
 ||yss-aya.com^
 ||yssingeaux.free.fr^
 ||yt1s.lol^
 ||ytcroxyproxy.com^
 ||ytdhblk.top^
+||yts.proxyninja.org^
 ||ytusexh.fr^
 ||yubo.live^
 ||yuboppornqqakgw.com^
@@ -42971,6 +43429,7 @@
 ||zfhyqirpshfmb.site^
 ||zfk5joitxrcqcw5h6uje.cfd^
 ||zfqskzjijhgma.space^
+||zfrofhdsskzsu.com^
 ||zgameeditor.org^
 ||zgigposexe.org^
 ||zgjuvpnlfhyfip.com^
@@ -43035,6 +43494,7 @@
 ||zkcdowyqcacre.site^
 ||zkckuzdesdhoj.online^
 ||zkicgklbrxxx.org^
+||zknuxabwinf.com^
 ||zkpsextjphmzda.com^
 ||zktqyaucnhpxxx.fr^
 ||zkwyhsexlpgfwl.com^
@@ -43048,6 +43508,7 @@
 ||zlxxxksoggjwfw.org^
 ||zmangames.com^
 ||zmcwawusexqp.fr^
+||zmeglgbwin.fr^
 ||zmero.com^
 ||zmexxxpqarnn.com^
 ||zmgkzryddts.com^

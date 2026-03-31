@@ -1,0 +1,34 @@
+! Title: DNS Filter - Torrent
+! Description: Domains related to Torrent - unsafe for children
+! Last modified: 2026-03-31 18:50
+! Entries:       28
+! Homepage: https://github.com/morgannito/dns-filter
+!
+||1337x.proxyninja.org^
+||1337x.unblockninja.st^
+||chainsawman.manganyaa.com^
+||dwnyaa.test^
+||imgs.manganyaa.com^
+||itorrents.net^
+||itorrents.org^
+||itsfqnyaa.test^
+||kickasstorrents.proxyninja.org^
+||nyaa.unblockninja.st^
+||ooucbyanyaa.fr^
+||orbnyaa.net^
+||ragnarok.manganyaa.com^
+||rarbguntwltih.fr^
+||stw.wawacity.diy^
+||torrent-stats.info^
+||torrentdownloads.proxyninja.org^
+||torrentz.adtrackers.net^
+||wawacity.diy^
+||www.mac-torrents.net^
+||www.nyaa.fr^
+||www.ptorrents.com^
+||www.tirexo.al^
+||www.tirexo.fit^
+||www.utorrent.com^
+||www.wawacity.al^
+||www.wawacity.diy^
+||www.zone-telechargement.al^

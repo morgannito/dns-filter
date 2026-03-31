@@ -1,0 +1,13 @@
+! Title: DNS Filter - Chat Anon
+! Description: Domains related to Chat Anon - unsafe for children
+! Last modified: 2026-03-31 18:50
+! Entries:        7
+! Homepage: https://github.com/morgannito/dns-filter
+!
+||api-web.omegle.fun^
+||data.monkey.cool^
+||emeraldchat.com^
+||omegle-91732.firebaseapp.com^
+||omegleweb.io^
+||webchathub.sage.com^
+||www.omegle.fun^

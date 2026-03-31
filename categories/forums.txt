@@ -1,0 +1,13 @@
+! Title: DNS Filter - Forums
+! Description: Domains related to Forums - unsafe for children
+! Last modified: 2026-03-31 18:50
+! Entries:        7
+! Homepage: https://github.com/morgannito/dns-filter
+!
+||4chan.endchan.net^
+||4chan.org^
+||8chan.moe^
+||8kun.top^
+||endchan.net^
+||nerv.8kun.top^
+||softserve.8kun.top^

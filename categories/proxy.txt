@@ -1,0 +1,44 @@
+! Title: DNS Filter - Proxy
+! Description: Domains related to Proxy - unsafe for children
+! Last modified: 2026-03-31 18:50
+! Entries:       38
+! Homepage: https://github.com/morgannito/dns-filter
+!
+||1337x.proxyninja.org^
+||acroxy.org^
+||cdn.blockaway.net^
+||cdn.croxy.org^
+||cdn.croxyproxy.com^
+||cdn.croxyproxy.net^
+||cdn.proxyium.com^
+||ckproxy34.odiso.net^
+||croxy.org^
+||croxyproxy.org^
+||croxyproxy.org.cutestat.com^
+||croxyproxy.rocks.sitescorechecker.com^
+||external-euw1-kproxy-1-918085366.eu-west-1.elb.amazonaws.com^
+||fitgirl-repacks.proxyninja.org^
+||growthbookproxy.tn-apis.com^
+||infiniteunblocker.spacetechnology.net^
+||kat.proxyninja.org^
+||kickasstorrents.proxyninja.org^
+||kproxy-extension.fr.softonic.com^
+||magnetdl.proxyninja.org^
+||nl.hideproxy.me^
+||paywebproxy-ext-api.ebay.com^
+||proxyninja.org^
+||torlock.proxyninja.org^
+||torrentdownloads.proxyninja.org^
+||webproxy.bible.com^
+||webproxy.unige.ch^
+||www.blockaway.com^
+||www.blockaway.net^
+||www.croxy.org^
+||www.croxyproxy.com^
+||www.croxyproxy.fr^
+||www.croxyproxy.net^
+||www.croxyproxy.rocks^
+||www.croxyproxycom.com^
+||www.kproxy.com^
+||www.proxysite.com^
+||yts.proxyninja.org^
